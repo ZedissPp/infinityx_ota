@@ -2,6 +2,16 @@
   "response": [
     {
       "changelog": "https://raw.githubusercontent.com/ZedissPp/infinityx_ota/main/changelog-3.8.txt"
+      "datetime": 1773422237,
+      "filename": "Project_Infinity-X-3.8-bangkk-13.03.2026-GAPPS-UNOFFICIAL.zip",
+      "id": "01b9a56edc9e7781aa0fe987cca0ef97",
+      "romtype": "unofficial",
+      "size": 1978269553,
+      "url": "",
+      "version": "3.8"
+    },
+    {
+      "changelog": "https://raw.githubusercontent.com/ZedissPp/infinityx_ota/main/changelog-3.8.txt"
       "datetime": 1773277200,
       "filename": "Project_Infinity-X-3.8-bangkk-11.03.2026-GAPPS-UNOFFICIAL.zip",
       "id": "01b9a56edc9e7781aa0fe987cca0ef97",
