@@ -1,5 +1,7 @@
 Changelog build:
 • Fixed NFC
+• Fixed D2TW
+• Kernel Sushi implemented by Akari
 
 Notes:
 • OSS based
